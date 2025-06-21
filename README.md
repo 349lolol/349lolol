@@ -1,6 +1,6 @@
-Hi there! I'm Patrick Wei, a G12 Ontario High School student interested in robotics, math, and engineering! Always looking forward to meeting new people and learning new things. Nice to meet you!
+Hi there! I'm Patrick Wei, an incoming Software Engineering student at the University of Waterloo!
 
-Here you'll find a lot of school projects I've made through G11, G12, and AP Computer Science. Working on lots of stuff behind the scenes :).
+I really need to get back into the habit of uploading stuff to github again :(
 
 <!---
 349lolol/349lolol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
